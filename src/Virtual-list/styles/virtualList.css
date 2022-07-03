@@ -1,0 +1,17 @@
+.container {
+  overflow-y: auto;
+  position: relative;
+}
+
+.realList {
+  left: 0;
+  right: 0;
+  top: 0;
+  position: relative;
+  text-align: center;
+}
+
+.listItem {
+  width: 100%;
+  border: 1px solid red;
+}
